@@ -1,0 +1,36 @@
+id: I70FA4197
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:31:13.843160'
+last_modified: '2022-06-19T17:31:13.843192'
+parser: null
+source_metadata:
+  title: Tenets Series
+  language: en
+  description: 'The following texts are available as part of our series on philosophical
+    tenets (grub mtha''; siddhānta) or tenet-systems:'
+  volume:
+    fDDD4:
+      title: Seeds of the Four Philosophical Schools
+      base_file: fDDD4.txt
+      order: 1
+      parent: Treatises
+    fBD4C:
+      title: 'The Concentrated Seed: How to Distinguish the Tenets of Non-Buddhist
+        and Buddhist Schools'
+      base_file: fBD4C.txt
+      order: 2
+      parent: Treatises
+    fF6FC:
+      title: The Black Snake Discourse
+      base_file: fF6FC.txt
+      order: 3
+      parent: Treatises
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
